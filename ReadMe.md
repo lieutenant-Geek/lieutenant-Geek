@@ -12,11 +12,24 @@
 <img src="https://img.shields.io/badge/Status-Open%20to%20Work-brightgreen?style=flat&logo=briefcase&logoColor=white" alt="open to work"/>
 <img src="https://img.shields.io/badge/Location-Dehradun,%20Uttarakhand-2F5233?style=flat&logo=googlemaps&logoColor=white" alt="location"/>
 
+<br/><br/>
+
+### 📬 Open to **SDE Internship** roles — let's talk!
+
+<a href="https://your-resume-link.com/Rohit_Resume.pdf">
+<img src="https://img.shields.io/badge/📄%20Download%20Resume-2F5233?style=for-the-badge&logoColor=white"/>
+</a>
+<a href="mailto:your-email@example.com">
+<img src="https://img.shields.io/badge/✉️%20Get%20In%20Touch-1B3A1B?style=for-the-badge&logoColor=white"/>
+</a>
+
 </div>
 
 <br/>
 
 ## 🧭 About Me
+
+<img align="right" width="280" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="coding animation"/>
 
 ```java
 public class Rohit implements BackendDeveloper {
@@ -41,7 +54,7 @@ public class Rohit implements BackendDeveloper {
 - 🚀 Actively interviewing for **SDE Internship** roles
 - 💬 Ask me about Spring Security, JWT auth, JPA/Hibernate, or system design
 
-<br/>
+<br clear="right"/>
 
 ## ⚙️ Tech Stack
 
@@ -165,10 +178,22 @@ Check out my pinned repositories for full source, READMEs, and setup instruction
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=graywhite&hide_border=true&title_color=2F5233&icon_color=2F5233&text_color=333333" width="48%" alt="GitHub Stats"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=default&hide_border=true&background=FFFFFF&stroke=2F5233&ring=2F5233&fire=2F5233&currStreakLabel=2F5233" width="48%" alt="GitHub Streak"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=dark&hide_border=true&title_color=6BAA75&icon_color=6BAA75"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=graywhite&hide_border=true&title_color=2F5233&icon_color=2F5233&text_color=333333"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=graywhite&hide_border=true&title_color=2F5233&icon_color=2F5233&text_color=333333" width="48%" alt="GitHub Stats"/>
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=dark&hide_border=true&stroke=6BAA75&ring=6BAA75&fire=6BAA75&currStreakLabel=6BAA75"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=default&hide_border=true&background=FFFFFF&stroke=2F5233&ring=2F5233&fire=2F5233&currStreakLabel=2F5233"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=default&hide_border=true&background=FFFFFF&stroke=2F5233&ring=2F5233&fire=2F5233&currStreakLabel=2F5233" width="48%" alt="GitHub Streak"/>
+</picture>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=graywhite&hide_border=true&title_color=2F5233&text_color=333333" width="48%" alt="Top Languages"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=dark&hide_border=true&title_color=6BAA75"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=graywhite&hide_border=true&title_color=2F5233&text_color=333333"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=graywhite&hide_border=true&title_color=2F5233&text_color=333333" width="48%" alt="Top Languages"/>
+</picture>
 
 </div>
 
@@ -178,7 +203,11 @@ Check out my pinned repositories for full source, READMEs, and setup instruction
 
 <div align="center">
 
-<img src="https://leetcard.jacoblin.cool/your-leetcode-username?theme=light&font=Fira%20Code&ext=heatmap" alt="LeetCode Stats" width="65%"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://leetcard.jacoblin.cool/your-leetcode-username?theme=dark&font=Fira%20Code&ext=heatmap"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://leetcard.jacoblin.cool/your-leetcode-username?theme=light&font=Fira%20Code&ext=heatmap"/>
+  <img src="https://leetcard.jacoblin.cool/your-leetcode-username?theme=light&font=Fira%20Code&ext=heatmap" alt="LeetCode Stats" width="65%"/>
+</picture>
 
 <br/>
 
@@ -192,7 +221,11 @@ Check out my pinned repositories for full source, READMEs, and setup instruction
 ## 🏅 GitHub Trophies
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=your-github-username&theme=flat&no-frame=true&column=7&margin-w=8&title=Commits,Stars,PullRequest,Issues,Repositories" alt="trophies"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=your-github-username&theme=darkhub&no-frame=true&column=7&margin-w=8&title=Commits,Stars,PullRequest,Issues,Repositories"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=your-github-username&theme=flat&no-frame=true&column=7&margin-w=8&title=Commits,Stars,PullRequest,Issues,Repositories"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=your-github-username&theme=flat&no-frame=true&column=7&margin-w=8&title=Commits,Stars,PullRequest,Issues,Repositories" alt="trophies"/>
+</picture>
 </div>
 
 <br/>
