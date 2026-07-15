@@ -1,5 +1,6 @@
-
 <div align="center">
+
+<img src="https://iam-weijie.github.io/wave/hand-emoji.svg" width="55" height="55" alt="waving hand"/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2F5233,100:1B3A1B&height=220&section=header&text=Hi%20There,%20I'm%20Rohit&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20%7C%20Java%20%2F%20Spring%20Boot%20Developer&descAlignY=55&descSize=18" width="100%"/>
 
@@ -29,6 +30,16 @@
 <br/>
 
 ## 🧭 About Me
+
+<table>
+<tr><td>
+
+🔴 &nbsp;🟡 &nbsp;🟢 &nbsp;&nbsp;<code>rohit@dev:~</code>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=2200&pause=500&color=6BAA75&center=false&vCenter=true&width=600&height=90&lines=%24+whoami;Rohit+%E2%80%94+Java+%2F+Spring+Boot+Backend+Developer;%24+git+log+--oneline+-1;Building+NarrativeWatch+%F0%9F%94%8E+coordinated+narrative+detection;%24+status+--current;Open+to+SDE+Internship+roles" alt="terminal typing animation"/>
+
+</td></tr>
+</table>
 
 <img align="right" width="280" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="coding animation"/>
 
@@ -196,6 +207,14 @@ Check out my pinned repositories for full source, READMEs, and setup instruction
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=graywhite&hide_border=true&title_color=2F5233&text_color=333333" width="48%" alt="Top Languages"/>
 </picture>
 
+<br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=your-github-username&theme=react-dark&hide_border=true&area=true"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=your-github-username&theme=github-compact&hide_border=true&area=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=your-github-username&theme=github-compact&hide_border=true&area=true" width="95%" alt="Weekly Activity Graph"/>
+</picture>
+
 </div>
 
 <br/>
@@ -237,6 +256,26 @@ Check out my pinned repositories for full source, READMEs, and setup instruction
 <img src="https://raw.githubusercontent.com/your-github-username/your-github-username/output/github-contribution-grid-snake.svg" alt="snake animation" width="100%"/>
 
 <sub>ℹ️ This animates automatically once you add the <a href="https://github.com/Platane/snk">snk GitHub Action</a> to your profile repo.</sub>
+</div>
+
+<br/>
+
+## 🧊 3D Contribution Graph
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/your-github-username/your-github-username/main/profile-3d-contrib/profile-green-animate.svg" alt="3D contribution graph" width="100%"/>
+
+<sub>ℹ️ Auto-rotating 3D view of your contribution calendar. Add the <a href="https://github.com/yoshi389111/github-profile-3d-contrib">github-profile-3d-contrib</a> Action to your profile repo — it commits <code>profile-3d-contrib/profile-green-animate.svg</code> daily. Swap the filename for <code>profile-season-animate.svg</code>, <code>profile-night-rainbow.svg</code>, etc. for other palettes.</sub>
+</div>
+
+<br/>
+
+## 📈 Live Metrics Dashboard
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/your-github-username/your-github-username/main/github-metrics.svg" alt="live metrics dashboard" width="100%"/>
+
+<sub>ℹ️ One combined animated panel (calendar heatmap, languages, activity) via the <a href="https://github.com/lowlighter/metrics">lowlighter/metrics</a> Action — commits <code>github-metrics.svg</code> on a schedule.</sub>
 </div>
 
 <br/>
