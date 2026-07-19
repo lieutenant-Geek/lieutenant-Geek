@@ -1,7 +1,10 @@
 <!-- ============================ HEADER ============================ -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3200&pause=1200&color=3FB950&background=0D1117&center=true&vCenter=true&width=720&height=190&lines=rohit%40dev%3A~%24+whoami;Hi+there,+I'm+Rohit+👋;%3E+Java+%2F+Spring+Boot+Backend+Developer_" alt="animated terminal header"/>
+  <code>🔴&nbsp;&nbsp;🟡&nbsp;&nbsp;🟢&nbsp;&nbsp;&nbsp;rohit@dev:~</code>
+</p>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3200&pause=1200&color=3FB950&background=0D1117&center=true&vCenter=true&width=720&height=190&lines=%24+echo+%22Hi+there%2C+I'm+Rohit%22;%3E+Java+%2F+Spring+Boot+Backend+Developer_" alt="animated terminal header"/>
 </p>
 
 <p align="center">
