@@ -1,308 +1,187 @@
-<div align="center">
+<!-- ============================ HEADER ============================ -->
 
-<img src="https://iam-weijie.github.io/wave/hand-emoji.svg" width="55" height="55" alt="waving hand"/>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=2800&pause=900&color=3FB950&center=true&vCenter=true&width=600&height=25&lines=rohit%40dev%3A~%24+./portfolio.sh+--init;Booting+backend+developer+profile...;Connection+established+%E2%9C%93" alt="terminal boot sequence"/>
+</p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2F5233,100:1B3A1B&height=220&section=header&text=Hi%20There,%20I'm%20Rohit&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20%7C%20Java%20%2F%20Spring%20Boot%20Developer&descAlignY=55&descSize=18" width="100%"/>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=180&section=header&text=Hi%20There,%20I'm%20Rohit%20👋&fontSize=40&fontColor=3FB950&animation=fadeIn&fontAlignY=42&desc=%3E%20Java%20%2F%20Spring%20Boot%20Backend%20Developer_&descAlignY=68&descSize=16&stroke=3FB950&strokeWidth=1"/>
+</p>
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=800&color=2F5233&center=true&vCenter=true&width=650&lines=Java+%2F+Spring+Boot+Backend+Developer;Building+NarrativeWatch+%E2%80%94+Coordinated+Narrative+Detection;Final-Year+MCA+Student+%40+Uttaranchal+University;600%2B+LeetCode+%7C+Top+4%25+Globally;Open+to+SDE+Internships+%2F+Backend+Roles" alt="Typing SVG" />
-</a>
+<p align="center">
+  <a href="https://www.linkedin.com/in/rohit-bisht-078642379/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:rohitbishtt69@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://leetcode.com/u/rohit316/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+  </a>
+</p>
 
-<br/>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=lieutenant-Rohit&style=for-the-badge&color=3FB950&label=PROFILE+VIEWS&labelColor=0D1117"/>
+  <img src="https://img.shields.io/github/followers/lieutenant-Rohit?style=for-the-badge&color=3FB950&label=FOLLOWERS&labelColor=0D1117"/>
+</p>
 
-<img src="https://komarev.com/ghpvc/?username=your-github-username&label=Profile%20Views&color=2F5233&style=flat" alt="profile views"/>
-<img src="https://img.shields.io/badge/Status-Open%20to%20Work-brightgreen?style=flat&logo=briefcase&logoColor=white" alt="open to work"/>
-<img src="https://img.shields.io/badge/Location-Dehradun,%20Uttarakhand-2F5233?style=flat&logo=googlemaps&logoColor=white" alt="location"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:3FB950,100:6BAA75&height=2&section=header" width="100%"/>
 
-<br/><br/>
+## <code>rohit@dev:~$</code> 🧭 About Me
 
-### 📬 Open to **SDE Internship** roles — let's talk!
-
-<a href="https://your-resume-link.com/Rohit_Resume.pdf">
-<img src="https://img.shields.io/badge/📄%20Download%20Resume-2F5233?style=for-the-badge&logoColor=white"/>
-</a>
-<a href="mailto:your-email@example.com">
-<img src="https://img.shields.io/badge/✉️%20Get%20In%20Touch-1B3A1B?style=for-the-badge&logoColor=white"/>
-</a>
-
-</div>
-
-<br/>
-
-## 🧭 About Me
+<p align="center" >
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=12&duration=2000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=300&height=20&lines=%24+cat+about.txt" alt="typing command"/>
+</p>
 
 <table>
 <tr><td>
 
-🔴 &nbsp;🟡 &nbsp;🟢 &nbsp;&nbsp;<code>rohit@dev:~</code>
+🔴&nbsp;🟡&nbsp;🟢&nbsp;&nbsp;<code>rohit@dev:~</code>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=2200&pause=500&color=6BAA75&center=false&vCenter=true&width=600&height=90&lines=%24+whoami;Rohit+%E2%80%94+Java+%2F+Spring+Boot+Backend+Developer;%24+git+log+--oneline+-1;Building+NarrativeWatch+%F0%9F%94%8E+coordinated+narrative+detection;%24+status+--current;Open+to+SDE+Internship+roles" alt="terminal typing animation"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=2200&pause=500&color=6BAA75&center=false&vCenter=true&width=650&height=100&lines=%24+whoami;Rohit+Bisht+%E2%80%94+Java+%2F+Spring+Boot+Backend+Developer;%24+git+log+--oneline+-1;Building+MeshPay+%E2%80%94+UPI+payments+without+internet;%24+cat+education.txt;MCA%2C+Uttaranchal+University+(2025%E2%80%932027);%24+status+--current;Open+to+SDE+Internship+roles" alt="terminal typing animation"/>
 
 </td></tr>
 </table>
 
 <img align="right" width="280" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="coding animation"/>
 
+- 🎓 Final-year **MCA** student at **Uttaranchal University**, Dehradun — Class of 2027
+- 🛠️ Backend-focused engineer with strong **Java / Spring Boot** foundations
+- 🔍 Currently building **MeshPay** — an offline, mesh-routed UPI payment relay
+- 📈 **767 LeetCode problems solved** — ranked **top 4% globally**
+- 🚀 Actively interviewing for **SDE Internship** roles
+- 💬 Ask me about Spring Security, JWT auth, JPA/Hibernate, or system design
+
+<details>
+<summary>💡 Or in Java, if you'd prefer</summary>
+
 ```java
+@Component
 public class Rohit implements BackendDeveloper {
 
     private final String role        = "Java / Spring Boot Developer";
     private final String education   = "MCA, Uttaranchal University (2025–2027)";
-    private final String[] interests = {"Distributed Systems", "ML-backed Backends", "System Design"};
-    private final boolean  openToWork = true;
+    private final boolean openToWork  = true;
+
+    private final String[] stack = {
+        "Java 21", "Spring Boot 3", "Spring Security", "JPA / Hibernate",
+        "PostgreSQL", "MongoDB", "Redis", "Docker", "Nginx", "JUnit 5"
+    };
 
     @Override
     public String currentFocus() {
-        return "Building NarrativeWatch — a real-time coordinated " +
-               "narrative injection detector";
+        return "MeshPay — UPI without internet";
+    }
+
+    public static void main(String[] args) {
+        System.out.println(new Rohit().currentFocus());
     }
 }
 ```
 
-- 🎓 Final-year **MCA** student at **Uttaranchal University**, Dehradun — Class of 2027
-- 🛠️ Backend-focused engineer with strong **Java / Spring Boot** foundations
-- 🔍 Currently building **NarrativeWatch**, a multi-signal coordinated-behavior detection system
-- 📈 **600+ LeetCode problems solved** — ranked **top 4% globally**
-- 🚀 Actively interviewing for **SDE Internship** roles
-- 💬 Ask me about Spring Security, JWT auth, JPA/Hibernate, or system design
+</details>
 
-<br clear="right"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6BAA75,100:7AA2F7&height=2&section=header" width="100%"/>
 
-## ⚙️ Tech Stack
+## <code>rohit@dev:~$</code> ⚡ Tech Stack
 
-<div align="center">
+<p align="center" >
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=12&duration=2000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=300&height=20&lines=%24+cat+tech-stack.json" alt="typing command"/>
+</p>
 
-**Languages & Core**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,python,postgres,mongodb,mysql,redis,maven,git,github,docker,linux,postman,nginx&perline=7"/>
+</p>
 
-<img src="https://skillicons.dev/icons?i=java,python,cpp&theme=light" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6BAA75,100:7AA2F7&height=2&section=header" width="100%"/>
 
-**Backend & Frameworks**
+## <code>rohit@dev:~$</code> 🚀 Featured Projects
 
-<img src="https://skillicons.dev/icons?i=spring,fastapi,hibernate,maven&theme=light" />
-
-**Databases**
-
-<img src="https://skillicons.dev/icons?i=postgres,mysql,redis&theme=light" />
-
-**Tools & DevOps**
-
-<img src="https://skillicons.dev/icons?i=docker,git,github,githubactions,postman&theme=light" />
-
-**Testing**
-
-<img src="https://skillicons.dev/icons?i=&theme=light" />
-<img src="https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=junit5&logoColor=white"/>
-<img src="https://img.shields.io/badge/Mockito-C5D9C8?style=for-the-badge"/>
-
-</div>
-
-<br/>
-
-## 🚀 Featured Projects
+<p align="center" >
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=12&duration=2000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=300&height=20&lines=%24+ls+-la+projects%2F" alt="typing command"/>
+</p>
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
-### 🔎 NarrativeWatch
-**Real-time coordinated narrative injection detector**
+### 🌸 [BloomsCafe](https://github.com/lieutenant-Rohit/BloomsCafe)
+Full-stack cafe e-commerce platform with a load-balanced Spring Boot cluster, Redis caching, and PostgreSQL read/write splitting.
 
-Multi-signal detection engine combining behavioral, temporal, semantic, and graph-based analysis to flag coordinated inauthentic activity in real time.
-
-- 🧠 4 detection signals: Isolation Forest anomaly scoring, temporal spike detection, TF-IDF + DBSCAN clustering, JGraphT social graph topology
-- ⚡ 3-of-4 coordination threshold with account-level attribution
-- 📡 Live SSE-powered dashboard
-
-`Java 21` `Spring Boot 3.5` `PostgreSQL` `Python FastAPI`
+`Java 21` `Spring Boot` `React` `TypeScript` `PostgreSQL` `Redis` `Nginx`
 
 </td>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
-### 🔔 PulseNotify
-**Event-driven notification engine**
+### 📡 [MeshPay](https://github.com/lieutenant-Rohit/MeshPay-Offline-UPI-)
+Offline UPI payments routed across a 10-node phone mesh using GPSR routing, X25519/Ed25519 encryption, and a Spring Boot bank backend.
 
-A 35-day guided build of a production-style notification system covering auth, security, and event processing from the ground up.
-
-- 🔐 JWT authentication with Spring Security
-- 🗂️ Clean JPA entity & repository layering
-- 📬 Event-driven architecture design
-
-`Java 21` `Spring Boot 3.5` `Spring Security` `JWT`
+`Java 21` `Spring Boot` `Python` `Docker` `Cryptography`
 
 </td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
-### 💸 MeshPay
-**Offline distributed payment relay**
+### 🦖 [Rex](https://github.com/lieutenant-Rohit/rex)
+A Git-like version control system built from scratch — content-addressable object storage, tree snapshots, and branching, no VCS libraries.
 
-A distributed system enabling payment relay without continuous internet connectivity, exploring mesh-network-style transaction propagation.
-
-`Java` `Distributed Systems` `Networking`
-
-</td>
-<td width="50%" valign="top">
-
-### 🌆 Urban Heat Island Mapper
-**Geospatial ML pipeline**
-
-Maps urban heat island effects using satellite raster data and a trained regression pipeline exposed via a REST API.
-
-- 🗺️ GeoPandas + Rasterio for geospatial processing
-- 🌲 RandomForest regression model
-- 🌐 FastAPI-served predictions
-
-`Python` `GeoPandas` `Rasterio` `scikit-learn` `FastAPI`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 📲 UPI Without Internet
-**Simulated offline UPI payment system**
-
-Simulates secure UPI-style transactions without an active internet connection using hybrid encryption between a Java client and Python service.
-
-- 🔒 RSA-OAEP hybrid encryption
-- 🛡️ AES-256-GCM for payload security
-
-`Java` `Python` `Cryptography`
-
-</td>
-<td width="50%" valign="top">
-
-### ➕ More on my profile
-Check out my pinned repositories for full source, READMEs, and setup instructions on each project above.
-
-<a href="https://github.com/your-github-username?tab=repositories">
-<img src="https://img.shields.io/badge/View%20All%20Repositories-2F5233?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+`Java 21` `SHA-1` `zlib`
 
 </td>
 </tr>
 </table>
 
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6BAA75,100:7AA2F7&height=2&section=header" width="100%"/>
 
-## 📊 GitHub Stats
+## <code>rohit@dev:~$</code> 📊 GitHub Statistics
 
-<div align="center">
+<p align="center" >
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=12&duration=2000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=400&height=20&lines=%24+gh+stats+--user+lieutenant-Rohit" alt="typing command"/>
+</p>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=dark&hide_border=true&title_color=6BAA75&icon_color=6BAA75"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=graywhite&hide_border=true&title_color=2F5233&icon_color=2F5233&text_color=333333"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=graywhite&hide_border=true&title_color=2F5233&icon_color=2F5233&text_color=333333" width="48%" alt="GitHub Stats"/>
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=dark&hide_border=true&stroke=6BAA75&ring=6BAA75&fire=6BAA75&currStreakLabel=6BAA75"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=default&hide_border=true&background=FFFFFF&stroke=2F5233&ring=2F5233&fire=2F5233&currStreakLabel=2F5233"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=default&hide_border=true&background=FFFFFF&stroke=2F5233&ring=2F5233&fire=2F5233&currStreakLabel=2F5233" width="48%" alt="GitHub Streak"/>
-</picture>
+<p align="center">
+  <img height="165" src="https://github-readme-stats.shion.dev/api?username=lieutenant-Rohit&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+  <img height="165" src="https://github-readme-stats.shion.dev/api/top-langs/?username=lieutenant-Rohit&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=dark&hide_border=true&title_color=6BAA75"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=graywhite&hide_border=true&title_color=2F5233&text_color=333333"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=graywhite&hide_border=true&title_color=2F5233&text_color=333333" width="48%" alt="Top Languages"/>
-</picture>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6BAA75,100:7AA2F7&height=2&section=header" width="100%"/>
 
-<br/>
+## <code>rohit@dev:~$</code> 🐍 Contribution Snake
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=your-github-username&theme=react-dark&hide_border=true&area=true"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=your-github-username&theme=github-compact&hide_border=true&area=true"/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=your-github-username&theme=github-compact&hide_border=true&area=true" width="95%" alt="Weekly Activity Graph"/>
-</picture>
+<p align="center" >
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=12&duration=2000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=350&height=20&lines=%24+python+snake.py+--animate" alt="typing command"/>
+</p>
 
-</div>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lieutenant-Rohit/lieutenant-Rohit/output/github-contribution-grid-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lieutenant-Rohit/lieutenant-Rohit/output/github-contribution-grid-snake.svg"/>
+    <img alt="contribution snake animation" src="https://raw.githubusercontent.com/lieutenant-Rohit/lieutenant-Rohit/output/github-contribution-grid-snake.svg"/>
+  </picture>
+</p>
 
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6BAA75,100:7AA2F7&height=2&section=header" width="100%"/>
 
-## 🏆 LeetCode
+## <code>rohit@dev:~$</code> 💻 LeetCode
 
-<div align="center">
+<p align="center" >
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=12&duration=2000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=350&height=20&lines=%24+leetcode+--profile+rohit316" alt="typing command"/>
+</p>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://leetcard.jacoblin.cool/your-leetcode-username?theme=dark&font=Fira%20Code&ext=heatmap"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://leetcard.jacoblin.cool/your-leetcode-username?theme=light&font=Fira%20Code&ext=heatmap"/>
-  <img src="https://leetcard.jacoblin.cool/your-leetcode-username?theme=light&font=Fira%20Code&ext=heatmap" alt="LeetCode Stats" width="65%"/>
-</picture>
+<p align="center">
+  <a href="https://leetcode.com/u/rohit316/">
+    <img src="https://leetcard.jacoblin.cool/rohit316?theme=dark&font=JetBrains_Mono&border=0&radius=20&width=600"/>
+  </a>
+</p>
 
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6BAA75,100:7AA2F7&height=2&section=header" width="100%"/>
 
-<img src="https://img.shields.io/badge/Problems%20Solved-600%2B-2F5233?style=for-the-badge&logo=leetcode&logoColor=white"/>
-<img src="https://img.shields.io/badge/Global%20Rank-Top%204%25-orange?style=for-the-badge&logo=leetcode&logoColor=white"/>
+<p align="center">
+  <i>"Programs must be written for people to read, and only incidentally for machines to execute."</i><br/>
+  <b>— Harold Abelson</b>
+</p>
 
-</div>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=11&duration=3000&pause=500&color=565F89&center=true&vCenter=true&width=200&height=20&lines=%24+exit" alt="typing exit"/>
+</p>
 
-<br/>
-
-## 🏅 GitHub Trophies
-
-<div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=your-github-username&theme=darkhub&no-frame=true&column=7&margin-w=8&title=Commits,Stars,PullRequest,Issues,Repositories"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=your-github-username&theme=flat&no-frame=true&column=7&margin-w=8&title=Commits,Stars,PullRequest,Issues,Repositories"/>
-  <img src="https://github-profile-trophy.vercel.app/?username=your-github-username&theme=flat&no-frame=true&column=7&margin-w=8&title=Commits,Stars,PullRequest,Issues,Repositories" alt="trophies"/>
-</picture>
-</div>
-
-<br/>
-
-## 🐍 Contribution Snake
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/your-github-username/your-github-username/output/github-contribution-grid-snake.svg" alt="snake animation" width="100%"/>
-
-<sub>ℹ️ This animates automatically once you add the <a href="https://github.com/Platane/snk">snk GitHub Action</a> to your profile repo.</sub>
-</div>
-
-<br/>
-
-## 🧊 3D Contribution Graph
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/your-github-username/your-github-username/main/profile-3d-contrib/profile-green-animate.svg" alt="3D contribution graph" width="100%"/>
-
-<sub>ℹ️ Auto-rotating 3D view of your contribution calendar. Add the <a href="https://github.com/yoshi389111/github-profile-3d-contrib">github-profile-3d-contrib</a> Action to your profile repo — it commits <code>profile-3d-contrib/profile-green-animate.svg</code> daily. Swap the filename for <code>profile-season-animate.svg</code>, <code>profile-night-rainbow.svg</code>, etc. for other palettes.</sub>
-</div>
-
-<br/>
-
-## 📈 Live Metrics Dashboard
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/your-github-username/your-github-username/main/github-metrics.svg" alt="live metrics dashboard" width="100%"/>
-
-<sub>ℹ️ One combined animated panel (calendar heatmap, languages, activity) via the <a href="https://github.com/lowlighter/metrics">lowlighter/metrics</a> Action — commits <code>github-metrics.svg</code> on a schedule.</sub>
-</div>
-
-<br/>
-
-## 🤝 Let's Connect
-
-<div align="center">
-
-<a href="mailto:your-email@example.com">
-<img src="https://img.shields.io/badge/Email-2F5233?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-<a href="https://linkedin.com/in/your-linkedin-handle">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="https://leetcode.com/your-leetcode-username">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
-</a>
-<a href="https://github.com/your-github-username">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</div>
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1B3A1B,100:2F5233&height=120&section=footer" width="100%"/>
-
-<div align="center">
-<sub>⭐️ From <b>Rohit</b> — thanks for stopping by!</sub>
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7AA2F7,100:6BAA75&height=120&section=footer"/>
