@@ -1,11 +1,7 @@
 <!-- ============================ HEADER ============================ -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=2800&pause=900&color=3FB950&center=true&vCenter=true&width=600&height=25&lines=rohit%40dev%3A~%24+./portfolio.sh+--init;Booting+backend+developer+profile...;Connection+established+%E2%9C%93" alt="terminal boot sequence"/>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=180&section=header&text=Hi%20There,%20I'm%20Rohit%20👋&fontSize=40&fontColor=3FB950&animation=fadeIn&fontAlignY=42&desc=%3E%20Java%20%2F%20Spring%20Boot%20Backend%20Developer_&descAlignY=68&descSize=16&stroke=3FB950&strokeWidth=1"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3200&pause=1200&color=3FB950&background=0D1117&center=true&vCenter=true&width=720&height=190&lines=rohit%40dev%3A~%24+whoami;Hi+there,+I'm+Rohit+👋;%3E+Java+%2F+Spring+Boot+Backend+Developer_" alt="animated terminal header"/>
 </p>
 
 <p align="center">
